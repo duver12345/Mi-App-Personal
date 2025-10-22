@@ -1,0 +1,86 @@
+# 💼 Mi App Personal
+
+Aplicación móvil creada con **React Native**, **TypeScript** y **Expo**, diseñada para mostrar un perfil personal con información, habilidades y proyectos.  
+Ideal como carta de presentación digital para desarrolladores o estudiantes de software. 🚀
+
+---
+
+## 🖥️ Tecnologías utilizadas
+
+- ⚛️ **React Native**
+- 📘 **TypeScript**
+- 🎨 **StyleSheet API (estilos nativos)**
+- 📱 **Expo** (para ejecución y pruebas rápidas)
+
+---
+
+## 📂 Estructura del proyecto
+
+📁 Mi-App-Personal/
+┣ 📁 components/
+┃ ┣ ProfileSection.tsx
+┃ ┣ SkillCard.tsx
+┃ ┗ ProjectCard.tsx
+┣ 📁 img/
+┃ ┗ ana.jpg
+┣ App.tsx
+┣ tsconfig.json
+┗ README.md
+
+---
+
+## ⚙️ Instalación y ejecución
+
+### 1️⃣ Clonar el repositorio
+```bash
+git clone https://github.com/tu-usuario/Mi-App-Personal.git
+cd Mi-App-Personal
+2️⃣ Instalar dependencias
+Si usas Expo (recomendado):
+
+bash
+Copiar código
+npx expo install
+O con npm:
+
+bash
+Copiar código
+npm install
+3️⃣ Ejecutar el proyecto
+bash
+Copiar código
+npx expo start
+Abre el Expo Go en tu celular y escanea el código QR 📱
+También puedes ejecutarlo en un emulador Android/iOS.
+
+🧠 Componentes principales
+🧩 ProfileSection.tsx
+Muestra la cabecera con el nombre, foto, contacto y una breve biografía del desarrollador.
+
+💪 SkillCard.tsx
+Tarjeta que muestra cada habilidad con su emoji, nombre y nivel.
+
+🚀 ProjectCard.tsx
+Presenta proyectos personales con su descripción y tecnologías utilizadas.
+
+🌈 Personalización
+Puedes editar fácilmente:
+
+Tu nombre, profesión y foto en ProfileSection.tsx
+
+Tus habilidades en App.tsx
+
+Tus proyectos en App.tsx
+
+Todo está comentado y organizado para facilitar los cambios.
+
+👤 Autor
+Duver Arley González
+📧 gonzalesarley507@gmail.com
+🌍 GitHub
+
+📜 Licencia
+Este proyecto se comparte con fines educativos.
+Puedes usarlo y modificarlo libremente. ❤️
+
+
